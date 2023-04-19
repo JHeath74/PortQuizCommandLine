@@ -16,7 +16,7 @@ shuffledvalues = {}
 
 playername = input("Please Enter your name and press the enter key: ")
 
-	while guess != 0:
+while guess != 0:
 
 			print("\nPort Quiz")
 			print("You'll be given a program and have to guess the port number\n")
